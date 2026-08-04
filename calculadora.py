@@ -1,7 +1,7 @@
 print("Calculadora en python")
 #inicializar variables 
 numero1 = 2
-numero2 = 6
+numero2 = 20
 
 suma = numero1 + numero2
 
