@@ -9,3 +9,5 @@ print("La suma de", numero1, "y", numero2, "es:", suma)
 #resta de numeros
 resta = numero1 - numero2
 print("La resta de", numero1, "y", numero2, "es:", resta)
+multiplicar = numero1 * numero2
+print("La multiplicacion de", numero1, "y", numero2, "es:", multiplicar)    
